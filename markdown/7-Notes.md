@@ -4,10 +4,10 @@
 
 1. Narayana Kocherlakota，《作为经济政策分析工具的现代宏观经济模型》，http://www.minneapolisfed.org/pubs/region/10-05/2009_mplsfed_annualreport_essay.pdf
 2. 比如，美国众议院科学和技术委员会于 2010 年 7 月 10 日召开了主题为”建立服务于真实世界的经济科学“的听证会。让宏观经济学者们不开心的是，我们所做的工作，从来不曾偏离过这个主题啊。那好吧。听证会的记录参见 http://economistsview.typepad.com/economistsview/2010/07/building-a-science-of-economics-for-the-real-world.html
-3. 参见诺奖得主 Paul Krugman 于2009 年 9 月 2 日发表于《纽约时报》上的文章《经济学家为何会错得如此离谱？》http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html
-4. If you feel there is too much repetition, I apologize. But think carefully about whichaudience you belong to, and ask whether, if you followed my suggestion to skip pastwhat you knew, you’d still find it that way.
-5. See, e.g., the journalist John Cassidy’s 2009 book How Markets Fail. Chapters 5 and 6will describe specific workhorse models of macroeconomics in which at least somemarkets “fail” in a precise sense: they will produce outcomes that do not display so-calledPareto efficiency.
-6. Readers will find useful the essay “Modern Macroeconomic Models” by NarayanaKocherlakota, president of the Federal Reserve Bank of Minneapolis, from which thequotation at the outset was taken. It covers at a high level some of the same ground asthis book, especially chapters 4 and 5.
+3. 参见诺奖得主 Paul Krugman 于 2009 年 9 月 2 日发表于《纽约时报》上的文章《经济学家为何会错得如此离谱？》http://www.nytimes.com/2009/09/06/magazine/06Economic-t.html
+4. 如果对基础知识的介绍让您觉得冗长，请接受我的道歉。但是也请您仔细辨别一下您是属于哪个读者群体，看看您是否有按照我的建议掠过了您已经懂得的部分。
+5. 参见记者  John Cassidy 出版于 2009 年的《市场是如何失灵的》一书。在经济学里，市场“失灵”的精确含义是：市场的结果不满足所谓的帕累托意义上的效率。本书第 5、6 章将会具体介绍此类的宏观经济学基准模型，在模型中某些市场会呈现出“失灵”。
+6. Readers will find useful the essay “Modern Macroeconomic Models” by Narayana Kocherlakota, president of the Federal Reserve Bank of Minneapolis, from which thequotation at the outset was taken. It covers at a high level some of the same ground asthis book, especially chapters 4 and 5.
 
 ## 1 The Modern Macroeconomic Approach and the Arrow-Debreu-McKenzie Model
 
